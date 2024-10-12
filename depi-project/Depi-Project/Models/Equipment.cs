@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 public class Equipment
 {
     [Key]
-    public int?Equipment_Id { get; set; }
+    public int Equipment_Id { get; set; }
     
     public string? Equipment_Name {get ;set;}
 
