@@ -28,6 +28,12 @@ namespace Depi_Project.context
     {
         ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
     }
+
+        public ApplicationContext()
+        {
+        }
+
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 {
     if (!optionsBuilder.IsConfigured) // Only configure if not already configured
