@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\New folder (3)\\Project_Depi\\depi-project\\Depi-Project\\Depi-Project.csproj": {}
+    "C:\\Users\\elfe8\\Downloads\\depi-project\\Depi-Project\\Depi-Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\New folder (3)\\Project_Depi\\depi-project\\Depi-Project\\Depi-Project.csproj": {
+    "C:\\Users\\elfe8\\Downloads\\depi-project\\Depi-Project\\Depi-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\New folder (3)\\Project_Depi\\depi-project\\Depi-Project\\Depi-Project.csproj",
+        "projectUniqueName": "C:\\Users\\elfe8\\Downloads\\depi-project\\Depi-Project\\Depi-Project.csproj",
         "projectName": "Depi-Project",
-        "projectPath": "C:\\Users\\hp\\Desktop\\New folder (3)\\Project_Depi\\depi-project\\Depi-Project\\Depi-Project.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\New folder (3)\\Project_Depi\\depi-project\\Depi-Project\\obj\\",
+        "projectPath": "C:\\Users\\elfe8\\Downloads\\depi-project\\Depi-Project\\Depi-Project.csproj",
+        "packagesPath": "C:\\Users\\elfe8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elfe8\\Downloads\\depi-project\\Depi-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elfe8\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,10 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNet.Identity.EntityFramework": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -92,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
