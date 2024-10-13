@@ -8293,19 +8293,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elfe8\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Depi\\Project_Depi\\Depi-project\\Depi-project\\Depi-Project.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\DEPII2\\Project_Depi\\depi-project\\Depi-Project\\Depi-Project.csproj",
       "projectName": "Depi-Project",
-      "projectPath": "E:\\Depi\\Project_Depi\\Depi-project\\Depi-project\\Depi-Project.csproj",
-      "packagesPath": "C:\\Users\\elfe8\\.nuget\\packages\\",
-      "outputPath": "E:\\Depi\\Project_Depi\\Depi-project\\Depi-project\\obj\\",
+      "projectPath": "C:\\Users\\hp\\Desktop\\DEPII2\\Project_Depi\\depi-project\\Depi-Project\\Depi-Project.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\DEPII2\\Project_Depi\\depi-project\\Depi-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\elfe8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8391,7 +8391,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
